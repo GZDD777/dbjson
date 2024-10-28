@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 20222098,
+      "category": "Sports Activity",
+      "title": "Sports Day",
+      "description": "Play every sports you want at this event.",
+      "location": "New York",
+      "date": "January 01, 2024",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Chen Junhao"
     }
   ]
 }
